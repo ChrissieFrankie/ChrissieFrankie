@@ -1,4 +1,10 @@
 ## Hi there 👋
+WILL FEATURE ONLY ALPHA VERSIONS
+
+# TO DO
+- WRAP UP GUI FIXES OF X LOYALTY
+- START ALGORITHM FARM
+- START SPOTYFY
 
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
