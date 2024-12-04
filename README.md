@@ -5,6 +5,7 @@ WILL FEATURE ONLY ALPHA VERSIONS
 - FINISH X LOYALTY ALPHA
 - START ALGORITHM FARM
 - START SPOTYFY
+- START VIRTUAL WAREHOUSE
 
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
