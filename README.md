@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 i personally believe azure will overtake aws by the beginning of the following decade
+emojis are for manchilds
