@@ -1,12 +1,16 @@
 ## Hi there 👋
-WILL FEATURE ONLY ALPHA VERSIONS
+WILL FEATURE ONLY LOCALLY HOSTED VERSIONS
 
 # TO DO
+- FINISH QUIZLET 2 ANKI
 - FINISH X LOYALTY ALPHA
 - START ALGORITHM FARM
-- START SPOTYFY
+- START SPOTYFY 
 - START VIRTUAL WAREHOUSE
 
+# COMING SOON
+- OPTIONS, FUTURES, AND OTHER DERIVATIVES
+  
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i personally believe azure will overtake aws by the beginning of the following decade
-
-emojis make me feel like a manchild
