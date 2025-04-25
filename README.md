@@ -13,6 +13,7 @@ THE FOLLOWING WILL BE THE LAST NEW PROGRAMS ON THIS REPO
 - 3D DSA VISUALIZER
 - VIRTUAL WAREHOUSE
 - CURSIVE CLASSIFIER
+- BADDIE HASKEL COMPILER *if i get turned on by the one right above*
 
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
