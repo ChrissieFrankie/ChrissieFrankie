@@ -7,8 +7,8 @@
 
 THE FOLLOWING WILL BE THE LAST NEW PROGRAMS ON THIS REPO
 
-- X LOYALTY PYTHON *basically done, just need to polish it*
-- 3D PTSB *working on the one above is starting to bore me, will start messing around with this*
+- X LOYALTY PYTHON *version alpha 0.1.0 done, just need to polish it more*
+- 3D PTSB *will start taking this one seriously*
 - SPODIFY
 - 3D DSA VISUALIZER
 - VIRTUAL WAREHOUSE
