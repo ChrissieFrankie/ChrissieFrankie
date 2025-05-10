@@ -7,13 +7,11 @@
 
 THE FOLLOWING WILL BE THE LAST NEW PROGRAMS ON THIS REPO
 
-- X LOYALTY PYTHON *version alpha 0.1.0 done, just need to polish it more*
 - 3D PTSB *will start taking this one seriously*
 - SPODIFY
 - 3D DSA VISUALIZER
 - VIRTUAL WAREHOUSE
 - CURSIVE CLASSIFIER
-- BADDIE HASKEL COMPILER *if i get turned on by the one right above*
 
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
