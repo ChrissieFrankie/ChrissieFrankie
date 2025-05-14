@@ -4,6 +4,7 @@
 
 - X LOYALTY
   - reduce sign in requests to one
+  - replace HTMX for Angular or React
   - integrate PostgreSQL
 - SPODIFY
   - scrape spotify account
