@@ -20,7 +20,11 @@
   - Decide on Kotlin or Java (Android)
 - CRAFTING INTERPRETERS 1
   - Get Started
-  - Craft and Design Visualiser 
+  - Craft and Design Visualiser
+
+# Certs
+
+Get a few AWS certs using pluralsight
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
