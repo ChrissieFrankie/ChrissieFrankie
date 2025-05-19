@@ -24,7 +24,7 @@
 
 # Certs
 
-Get a few AWS certs using pluralsight
+Get a few AWS certs using freecodecamp and test banks
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
