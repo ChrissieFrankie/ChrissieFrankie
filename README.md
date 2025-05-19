@@ -19,7 +19,8 @@
 - 2025 Citizenship Test Prep App
   - Decide on Kotlin or Java (Android)
 - CRAFTING INTERPRETERS 1
-  - Get Started
+  - Complete third challenge of chapter 1
+  - move on to chapter 2
   - Craft and Design Visualiser
 
 # Certs
