@@ -4,28 +4,37 @@
 
 - X LOYALTY
   - reduce sign in requests to one
-  - replace HTMX for Angular
+  - migrate HTMX to Angular
   - integrate PostgreSQL
+  - host somewhere
 - SPODIFY
   - scrape spotify account
   - download every playlist
   - 3D UI
   - trivia game
+  - host somewhere
 - 3D PTSB
   - Scrape ptsb data
   - 3D UI
   - PostgreSQL
   - quizzer
-- 2025 Citizenship Test Prep App
-  - Decide on Kotlin or Java (Android)
+  - host somewhere
+- 2025 Citizenship Test Prep
+  - Kotlin for app
+  - Java for full stack
+  - host somewhere
 - CRAFTING INTERPRETERS 1
-  - Complete third challenge of chapter 1
+  - Finish third challenge of chapter 1
+    - create deleteString function
+    - add null checks
+    - add returns to functions
   - move on to chapter 2
   - Craft and Design Visualiser
-
+- CODING CHALLENGES
+  - do 3 problems
 # Certs
 
-Get a few AWS certs using freecodecamp and test banks
+add AWS SAA-C03 notes
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
