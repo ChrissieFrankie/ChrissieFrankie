@@ -34,7 +34,9 @@
   - do 3 problems
 # Certs
 
-add AWS SAA-C03 notes
+add AWS SAA-C03 notes, kinda realising i need to deploy a project on aws to make a certification relevant
+
+might just side with CompTia just to start out with
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
