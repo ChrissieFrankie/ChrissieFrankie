@@ -1,6 +1,6 @@
 # Hi there 👋
 
-no copilot or the rest of that shit
+no copilot/figma or the rest of that shit
 
 ## TO DO
 
