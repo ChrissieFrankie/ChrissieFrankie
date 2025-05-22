@@ -1,5 +1,7 @@
 # Hi there 👋
 
+no copilot or the rest of that shit
+
 ## TO DO
 
 - X LOYALTY
@@ -24,12 +26,12 @@
   - Java for full stack
   - host somewhere
 - CRAFTING INTERPRETERS 1
-  - Finish third challenge of chapter 1
-    - create deleteString function
+  - Wrap up chapter 1 challenge 3
     - add null checks
-    - add returns to functions
+    - add more tests
+    - free the memory
   - move on to chapter 2
-  - Craft and Design Visualiser
+  - Design Visualiser as you go
 - CODING CHALLENGES
   - do 3 problems
 # Certs
