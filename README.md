@@ -34,11 +34,12 @@ no copilot or the rest of that shit
   - Design Visualiser as you go
 - CODING CHALLENGES
   - do 3 problems
+  - 
 # Certs
 
-add AWS SAA-C03 notes, kinda realising i need to deploy a project on aws to make a certification relevant
+to proceed with studying for AWS SAA-C03, i realised i need a 🐧 machine, going to buy a new charger for my old mac and run amazon linux on it
 
-might just side with CompTia just to start out with
+
 <!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
