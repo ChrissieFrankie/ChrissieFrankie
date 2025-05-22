@@ -1,6 +1,6 @@
 # Hi there 👋
 
-no copilot/figma or the rest of that shit
+i am going to start using linux and if i dig it, it will be my main OS
 
 ## TO DO
 
