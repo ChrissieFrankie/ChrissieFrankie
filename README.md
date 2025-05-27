@@ -1,3 +1,5 @@
+i somehow got covid even though i got the pfizer vaccine
+
 # Hi there 👋
 
 i am going to start using linux and if i dig it, it will be my main OS
