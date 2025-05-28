@@ -6,11 +6,6 @@ i am going to start using linux and if i dig it, it will be my main OS
 
 ## TO DO
 
-- X LOYALTY
-  - reduce sign in requests to one
-  - migrate HTMX to Angular
-  - integrate PostgreSQL
-  - host somewhere
 - SPODIFY
   - scrape spotify account
   - download every playlist
