@@ -1,4 +1,4 @@
-i somehow got covid even though i got the pfizer vaccine
+i don't have covid anymore going to start rollin'
 
 # Hi there 👋
 
@@ -34,7 +34,7 @@ i am going to start using linux and if i dig it, it will be my main OS
   - 
 # Certs
 
-to proceed with studying for AWS SAA-C03, i realised i need a 🐧 machine, going to buy a new charger for my old mac and run amazon linux on it
+to proceed with studying for AWS SAA-C03
 
 
 <!--
