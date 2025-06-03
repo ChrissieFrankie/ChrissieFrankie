@@ -1,4 +1,4 @@
-i sawed off the legs of my standing desk, now it's a regular desk
+i sawed off the legs of my standing desk, now it's a regular desk without shitty internet cabling 
 
 # Hi there 👋
 
