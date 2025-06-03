@@ -1,4 +1,4 @@
-i don't have covid anymore going to start rollin'
+i sawed off the legs of my standing desk, now it's a regular desk
 
 # Hi there 👋
 
