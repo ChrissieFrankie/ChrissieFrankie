@@ -1,6 +1,6 @@
 # Hi there 👋
 
-taking it one at a time
+taking it one at a time, distinguish noise from signal
 
 ## TO DO
 
