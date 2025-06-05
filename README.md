@@ -1,8 +1,6 @@
-i sawed off the legs of my standing desk, now it's a regular desk without shitty internet cabling 
-
 # Hi there 👋
 
-i am going to start using linux and if i dig it, it will be my main OS
+taking it one at a time
 
 ## TO DO
 
@@ -12,6 +10,9 @@ i am going to start using linux and if i dig it, it will be my main OS
   - 3D UI
   - trivia game
   - host somewhere
+
+
+<!--
 - 3D PTSB
   - Scrape ptsb data
   - 3D UI
@@ -36,8 +37,6 @@ i am going to start using linux and if i dig it, it will be my main OS
 
 to proceed with studying for AWS SAA-C03
 
-
-<!--
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
