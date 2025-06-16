@@ -15,11 +15,11 @@ taking it one at a time, distinguish noise from signal
     - create 3d image label
     - create deck visualisation
 
-## TO DO whenever i am bored
+## TO DO whenever i get bored of above
 
 - Crafting Interpreters I
 - Coding Challenges I
-- 
+- US Citizenship Test Prep 2025
 <!--
 - 3D PTSB
   - Scrape ptsb data
