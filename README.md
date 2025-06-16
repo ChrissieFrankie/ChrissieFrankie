@@ -5,13 +5,21 @@ taking it one at a time, distinguish noise from signal
 ## TO DO
 
 - SPODIFY
-  - scrape spotify account
-  - download every playlist
-  - 3D UI
-  - trivia game
-  - host somewhere
+  - build spotify account search/download sub page
+    - build 3d textfield
+    - build 3d button
+    - build 3d progress bar
+  - build web player
+    - create 3d squre as menu
+    - use 3d button
+    - create 3d image label
+    - create deck visualisation
 
+## TO DO whenever i am bored
 
+- Crafting Interpreters I
+- Coding Challenges I
+- 
 <!--
 - 3D PTSB
   - Scrape ptsb data
