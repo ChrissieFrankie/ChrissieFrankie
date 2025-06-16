@@ -13,7 +13,6 @@ taking it one at a time, distinguish noise from signal
     - create 3d squre as menu
     - use 3d button
     - create 3d image label
-    - create deck visualisation
 
 ## TO DO whenever i get bored of above
 
