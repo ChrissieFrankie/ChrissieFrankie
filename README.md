@@ -5,18 +5,16 @@ taking it one at a time, distinguish noise from signal
 ## TO DO
 
 - SPODIFY
-  - build spotify account search/download sub page
-    - build 3d textfield
-    - build 3d button
-    - build 3d progress bar
+  - build spotify selection/download sub component page
+    - build 3d tiles for playlists
+    - build 3d tiles for songs of each playlist
   - build web player
-    - create 3d squre as menu
-    - use 3d button
-    - create 3d image label
+    - base it off a phonograph
 
 ## TO DO whenever i get bored of above
 
 - Crafting Interpreters I
+  - lowkey i am getting board of flipping/clicking through pages may just make a 3d visualiser of a motherboard
 - Coding Challenges I
 - US Citizenship Test Prep 2025
 <!--
