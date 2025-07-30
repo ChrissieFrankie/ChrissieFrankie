@@ -1,6 +1,6 @@
 # Hi there 👋
 
-taking it one at a time, distinguish noise from signal
+taking it one at a time, distinguish noise from signal, aim is to establish a business under my name before automation goes full swing
 
 ## TO DO
 
