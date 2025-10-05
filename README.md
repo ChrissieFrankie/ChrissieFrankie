@@ -4,6 +4,8 @@ i have a bitbucket for all the backends
 
 ## TO DO
 
+- TheAccountingCycle
+
 - SPODIFY
   - build spotify selection/download sub component page
     - build 3d tiles for playlists
@@ -17,6 +19,7 @@ i have a bitbucket for all the backends
   - lowkey i am getting board of flipping/clicking through pages may just make a 3d visualiser of a motherboard
 - Coding Challenges I
 - US Citizenship Test Prep 2025
+- Something else rather than program
 <!--
 - 3D PTSB
   - Scrape ptsb data
