@@ -1,17 +1,11 @@
 # Hi there 🫡
 
-i have a bitbucket for all the backends
-
 ## TO DO
 
-- TheAccountingCycle
+- PayPal to Financial Statements
 
 - SPODIFY
-  - build spotify selection/download sub component page
-    - build 3d tiles for playlists
-    - build 3d tiles for songs of each playlist
-  - build web player
-    - base it off a phonograph
+  - I prefer pandora so i deleted my spotify
 
 ## TO DO whenever i get bored of above
 
@@ -20,17 +14,6 @@ i have a bitbucket for all the backends
 - Coding Challenges I
 - US Citizenship Test Prep 2025
 - Something else rather than program
-<!--
-- 3D PTSB
-  - Scrape ptsb data
-  - 3D UI
-  - PostgreSQL
-  - quizzer
-  - host somewhere
-- 2025 Citizenship Test Prep
-  - Kotlin for app
-  - Java for full stack
-  - host somewhere
 - CRAFTING INTERPRETERS 1
   - Wrap up chapter 1 challenge 3
     - add null checks
@@ -40,10 +23,6 @@ i have a bitbucket for all the backends
   - Design Visualiser as you go
 - CODING CHALLENGES
   - do 3 problems
-  - 
-# Certs
-
-to proceed with studying for AWS SAA-C03
 
 **CHRISSY-FRANKY/CHRISSY-FRANKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
