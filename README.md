@@ -1,4 +1,5 @@
 # Hi there 🫡
+thinking about finishing a computer engineering degree, in florida or texas, idk yet
 
 ## TO DO
 
