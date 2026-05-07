@@ -1,5 +1,5 @@
 # Hi there 🫡
-thinking about finishing a computer engineering degree, in florida or texas, idk yet
+thinking about finishing a computer engineering degree, in texas
 
 ## TO DO
 
@@ -7,8 +7,8 @@ thinking about finishing a computer engineering degree, in florida or texas, idk
   - to stop gambling thousands of dollars
 - Spotikovsky
   - Spotify without ads 
-- Precalc worksheet engine
-  - for those that want to tutor for bread
+- Precalc Review
+  - i want to finish an engineering degree strong   
 
 ## Maybe
 
