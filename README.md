@@ -16,7 +16,3 @@ thinking about finishing a computer engineering degree, in texas to build cool s
 
 - US Citizenship Test Prep 2026
   - if i decide to get a mac
-- Crafting Interpreters I
-  - bored of the activites
-- Veetcode
-  - 3d visualizer of programming problems
