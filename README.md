@@ -8,7 +8,8 @@ thinking about finishing a computer engineering degree, in texas to build cool s
 - Spotikovsky
   - Spotify without ads 
 - Precalc Review
-  - i want to finish an engineering degree strong   
+  - i want to finish an engineering degree strong
+- Create highly interactive comptia quizes   
 
 ## Maybe
 
