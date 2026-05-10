@@ -1,5 +1,5 @@
 # Hi there 🫡
-thinking about finishing a computer engineering degree, in texas
+thinking about finishing a computer engineering degree, in texas to build cool shit
 
 ## TO DO
 
