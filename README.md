@@ -3,7 +3,7 @@ thinking about finishing a computer engineering degree, in texas to build cool s
 
 ## TO DO
 
-- PayPal to Financial Statements / Budget
+- Budget Receipt App
   - to stop gambling thousands of dollars
 - Spotikovsky
   - Spotify without ads 
