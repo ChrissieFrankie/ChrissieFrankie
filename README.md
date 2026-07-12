@@ -1,4 +1,4 @@
-# Hi there 🫡
+# Hi there 🫡 currently distracted by the world cup scene
 thinking about finishing a computer engineering degree, in texas to build cool shit like a bull riding machine
 
 ## TO DO
@@ -8,8 +8,6 @@ thinking about finishing a computer engineering degree, in texas to build cool s
 - Spotikovsky
   - Spotify without ads 
 - Precalc Review
-  - i was going to upload my work using microsoft lens to capture good picture
-  - but apple for some reason won't let me sign into my icloud until next week 
 - Create highly interactive comptia quizes   
 
 ## Maybe
